@@ -1,0 +1,15 @@
+{
+    "name": "juditor",
+    "version": "1.0.0",
+    "description": "The Juditor is a modern text editor for desktop devices.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^17.1.2"
+    }
+}
